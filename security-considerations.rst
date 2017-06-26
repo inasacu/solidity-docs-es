@@ -2,10 +2,14 @@
 
 #######################
 Security Considerations
+Consideraciones de Seguridad
 #######################
 
 While it is usually quite easy to build software that works as expected,
 it is much harder to check that nobody can use it in a way that was **not** anticipated.
+
+Mientras que normalmente es bastante facil escribir software que funcione como es debido,
+es mas dificil comprobar que nadie la utilizer de una forma que **no** era intencionada.
 
 In Solidity, this is even more important because you can use smart contracts
 to handle tokens or, possibly, even more valuable things. Furthermore, every
